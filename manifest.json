@@ -1,6 +1,6 @@
 {
-    "name": "mvc",
-    "short_name": "mvc",
+    "name": "fortune",
+    "short_name": "fortune",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
